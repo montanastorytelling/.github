@@ -1,3 +1,3 @@
-# The Storytelling Project
+# montanastorytelling organization profile page
 
-[https://www.montana.edu/storytelling/index.html](https://www.montana.edu/storytelling/index.html)
+README.md file in profile folder will be displayed as an overview on our main organization page.
